@@ -1,0 +1,12 @@
+1.  Escrever um programa que receba 2 números e exiba o resultado de sua soma. FEITO
+
+2.  Escrever um programa que receba 2 números e ao final, exiba a soma, subtração,
+    multiplicação e a divisão dos números LIDOS. FEITO
+
+3.  Escrever um programa para determinar o consumo médio de um autimóvel sendo
+    fornecida a distância total percorrida pelo automíel e o total de combustível
+    gasto.  FEITO
+
+4.  Crie um programa que leia um número e informe se é positivo ou negativo. FEITO
+
+5.  Crie um programa que leia um número e informe se é par ou impar.
